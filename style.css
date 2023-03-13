@@ -1,0 +1,165 @@
+.container{
+    margin: auto;
+    padding:auto;  
+}
+.card{
+    width: 1280px;
+    height:576px; 
+background: #F0FFF0;
+}
+.logo img{
+position: absolute;
+width: 118.07px;
+height: 29px;
+left: 292px;
+top: 25px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 24.8571px;
+line-height: 29px;
+color: #56548C;
+}
+.image1{
+    position: absolute;
+    left: 700px;
+    top: 150px;
+}
+.p1{
+    position: absolute;
+    width: 200px;
+    height: 24px;
+    left: 205px;
+    top: 178px;
+    color: #FD511A;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+
+    
+}
+h5{
+    position: absolute;
+width: 405px;
+height: 140px;
+left: 205px;
+top: 212px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+}
+p{
+    position: absolute;
+width: 403px;
+height: 85px;
+left: 205px;
+top: 371px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 36px;
+color: #56548C;
+}
+.btn1{
+    width: 120px;
+height: 35px;
+border-radius: 20px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+position: absolute;
+left: 205px;
+top: 450px;
+background-color:green;
+color:azure;
+}
+.book{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    padding: 40px;
+}
+.box1{
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 135px;
+top: 618px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.box2{
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 435px;
+top: 618px;
+
+background: #F8FFFB;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.box3{
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 734px;
+top: 618px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.box4{
+    
+position: absolute;
+width: 270px;
+height: 270px;
+left: 1035px;
+top: 618px;
+
+background: #F8FFFB;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px
+}
+.box1,.box2,.box3,.box4{
+    border: 1px solid black;
+}
+.img{
+    position: absolute;
+    left: 38%;
+    top: 25%;
+}
+h3{
+    position: absolute;
+    top: 180px;
+    left: 25%;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+h6{position: absolute;
+   left: 25%;
+   top: 80%;
+   font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
